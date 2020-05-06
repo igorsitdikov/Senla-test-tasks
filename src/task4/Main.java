@@ -3,6 +3,12 @@ package task4;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+* Создать программу, которая подсчитывает сколько раз употребляется
+* слово в тексте (без учета регистра).
+* Текст и слово вводится вручную.
+* */
+
 public class Main {
 
     public static void main(String[] args) {
